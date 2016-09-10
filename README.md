@@ -1,6 +1,7 @@
 strman-java [![Build Status](https://travis-ci.org/shekhargulati/strman-java.svg?branch=master)](https://travis-ci.org/shekhargulati/strman-java) [![codecov.io](https://codecov.io/github/shekhargulati/strman-java/coverage.svg?branch=master)](https://codecov.io/github/shekhargulati/strman-java?branch=master) [![License](https://img.shields.io/:license-mit-blue.svg)](./LICENSE.txt)
 ------
-[Chinese Note]
+Chinese Note (Added by wangzhiping,9/10/2016)
+--------
  Strman-java库是一套Java 8库，专门用于处理字符串。由于其可用于Maven，因此大家只需要面向选定的构建工具添加关联性即可使用。
 
 如果大家使用过Kik并听说过其遭遇的leftPad问题，那么Strman可能是个更好的选择——其能够返回特定长度的新字符串，且自动填充开头部分内容。另外，其中还提供一整套功能列表，包括向值附加字符串、从特定目录中提取字符以及利用字符串在开始与结束间返回数组等等。
